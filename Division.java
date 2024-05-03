@@ -1,5 +1,5 @@
 class Division{
-    double n1, n2, res;
+    private double n1, n2, res;
 
     public double dividir(){
 
